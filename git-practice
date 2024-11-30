@@ -1,2 +1,7 @@
 Git practice
-second commit 
+
+To  update git repository from command line use the following
+commands
+1. stage changes "git add ." 
+2. commit changes "git commit -m "your commit message""
+3. push to orgin "git push origin main"
